@@ -1,4 +1,13 @@
-### Hi there 👋
+# Hey, I'm Ellie Noh! Make yourself comfortable (get some tea?)
+Nice of you to wander on in here!  
+I'm currently a novice programmer learning to dip my toes in GitHub and all the complicated stuff it entails, so forgive my inexperience.  
+Now, let's dive right in, shall we?
+
+## Table of Contents
+
+
+## About Me
+I am a Korean-born-American... (tbc) 
 
 <!--
 **ellieabq/ellieabq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
